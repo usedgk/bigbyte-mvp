@@ -1,4 +1,0 @@
-site_id,site_name,location,energy_source,compute_capacity_mw,renewable_capacity_mw,battery_capacity_mwh,battery_power_mw,initial_soc_pct,grid_import_limit_mw,pue,base_price_usd_mwh
-A,North Sea Offshore,North Sea,Wind + BESS + Grid,80,120,200,50,60,60,1.18,95
-B,Frankfurt Grid Hub,"Frankfurt, Germany",Utility Grid,100,0,0,0,0,130,1.25,120
-C,Abu Dhabi Solar Hub,"Abu Dhabi, UAE",Solar + BESS + Grid,60,90,150,40,70,70,1.22,75
